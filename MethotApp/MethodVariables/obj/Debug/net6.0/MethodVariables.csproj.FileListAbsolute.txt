@@ -1,0 +1,15 @@
+D:\Yazılım\MethotApp\MethodVariables\bin\Debug\net6.0\MethodVariables.exe
+D:\Yazılım\MethotApp\MethodVariables\bin\Debug\net6.0\MethodVariables.deps.json
+D:\Yazılım\MethotApp\MethodVariables\bin\Debug\net6.0\MethodVariables.runtimeconfig.json
+D:\Yazılım\MethotApp\MethodVariables\bin\Debug\net6.0\MethodVariables.dll
+D:\Yazılım\MethotApp\MethodVariables\bin\Debug\net6.0\MethodVariables.pdb
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.csproj.AssemblyReference.cache
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.AssemblyInfoInputs.cache
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.AssemblyInfo.cs
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.csproj.CoreCompileInputs.cache
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.dll
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\refint\MethodVariables.dll
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.pdb
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\MethodVariables.genruntimeconfig.cache
+D:\Yazılım\MethotApp\MethodVariables\obj\Debug\net6.0\ref\MethodVariables.dll

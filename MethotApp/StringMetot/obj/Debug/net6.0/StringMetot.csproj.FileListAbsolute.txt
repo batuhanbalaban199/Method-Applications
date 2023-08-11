@@ -1,0 +1,15 @@
+D:\Yazılım\MethotApp\StringMetot\bin\Debug\net6.0\StringMetot.exe
+D:\Yazılım\MethotApp\StringMetot\bin\Debug\net6.0\StringMetot.deps.json
+D:\Yazılım\MethotApp\StringMetot\bin\Debug\net6.0\StringMetot.runtimeconfig.json
+D:\Yazılım\MethotApp\StringMetot\bin\Debug\net6.0\StringMetot.dll
+D:\Yazılım\MethotApp\StringMetot\bin\Debug\net6.0\StringMetot.pdb
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.csproj.AssemblyReference.cache
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.AssemblyInfoInputs.cache
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.AssemblyInfo.cs
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.csproj.CoreCompileInputs.cache
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.dll
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\refint\StringMetot.dll
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.pdb
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\StringMetot.genruntimeconfig.cache
+D:\Yazılım\MethotApp\StringMetot\obj\Debug\net6.0\ref\StringMetot.dll
